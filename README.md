@@ -1,6 +1,6 @@
-# scripts-menus-unix
+# Shell script sobre menús en Unix
 
-![polinomios](https://github.com/rmelgo/Operaciones-con-polinomios/assets/145989723/d4fb4e43-b340-464b-b91c-ad76af4004f0)
+![Imagen shell script](https://github.com/rmelgo/scripts-menus-unix/assets/145989723/4bfdd300-24db-47f1-8059-7a315d22eb91)
 
 # - Introducción
 
@@ -24,8 +24,7 @@ Para otorgar al fichero menu.sh de los permisos necesarios, simplemente es neces
 
 # - Ejemplo de ejecución
 
-En la siguiente imagen, se muestra un ejemplo del uso y funcionamiento del programa:    
+En las siguientes imagenes, se muestra un ejemplo del uso y funcionamiento del programa:    
 
-<p>
-  <img src="https://github.com/rmelgo/Operaciones-con-polinomios/assets/145989723/88f585eb-965c-4fd9-86c9-93a796561b5d" />
-</p>
+![Ejemplo ejecucion menu 1](https://github.com/rmelgo/scripts-menus-unix/assets/145989723/0eec2d0f-43cb-4f2c-a6d5-42fb2bdd63e5)
+![Ejemplo ejecucion menu 2](https://github.com/rmelgo/scripts-menus-unix/assets/145989723/096b6ddc-86ae-40d6-be77-1fa83c1c3330)
