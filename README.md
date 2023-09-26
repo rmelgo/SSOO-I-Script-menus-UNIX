@@ -4,7 +4,7 @@
 
 # - Introducción
 
-Proyecto realizado en la asignatura de Sistemas Operativos I del grado de Ingenieria Informática de la Universidad de Salamanca.  
+Proyecto realizado en la asignatura de Sistemas Operativos I del grado de Ingenieria Informática de la Universidad de Salamanca. El enunciado del proyecto se encuentra subido en el repositorio en un archivo pdf llamado *Enunciado.pdf*  
   
 El principal objetivo de este proyecto es la realización de un script en bash que permita realizar de manera sencilla funcionalidades básicas como buscar ficheros, listar ficheros, mostrar y modificar permisos de ficheros, etc.
 
